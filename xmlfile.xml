@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Result documentVersion="1.0">
+    <ToolName>Katalon UI Test</ToolName>
+    <UtcEndTime>Utc EndT ime</UtcEndTime>
+    <Scope>High Level</Scope>
+    
+<Components><Component><ComponentName>Test Suites/Android/Debrief/Debrief_Contacts/TS_Debrief_Contacts</ComponentName><Total>12345</Total><Passed>1</Passed><Failed>0</Failed></Component></Components></Result>

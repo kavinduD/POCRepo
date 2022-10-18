@@ -1,0 +1,14 @@
+# Project exclude paths
+Reports
+Libs
+bin
+.idea
+.project
+.classpath
+appium.log
+console.properties
+**/*.eml
+**/*.iml
+**/*.orig
+/localUserSettings.properties
+.cache/Keywords/
