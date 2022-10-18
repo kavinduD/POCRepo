@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where screens are enabled or disabled for a custom Debrief WF.</description>
+   <name>tc_315</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>166e3b49-cae8-46bf-ae62-5f0deccf7206</testCaseGuid>
+</TestCaseEntity>

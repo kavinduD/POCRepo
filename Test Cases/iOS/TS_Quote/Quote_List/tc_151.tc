@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test plan focuses on the happy path where quotes available on the mobile (QuoteList screen) are verified against the backend.</description>
+   <name>tc_151</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>c620a1f9-d48d-4700-abf9-fa0e34a15895</testCaseGuid>
+</TestCaseEntity>

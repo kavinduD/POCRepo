@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a labor record is added on an assigned task.</description>
+   <name>tc_139</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56979e24-53ab-4400-84ff-c9e5284f42b3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where, serial deletion is tested while receiving stock of a serial tracked part.</description>
+   <name>tc_081</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d08d4b48-2175-41e8-b255-064b20a6b6b4</testCaseGuid>
+</TestCaseEntity>

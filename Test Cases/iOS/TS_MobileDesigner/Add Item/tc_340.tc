@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a Next button with a validation Event Type and an Event is added on a screen.</description>
+   <name>tc_340</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6bb5121-a908-4a70-85ab-913850076586</testCaseGuid>
+</TestCaseEntity>

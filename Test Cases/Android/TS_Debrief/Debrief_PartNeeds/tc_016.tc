@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Debrief Part Needs: Add a part need</description>
+   <name>tc_016</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e9eeb6b-9017-4b74-a061-83f3bc211336</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0db9f9a0-292c-4d9d-ab60-15db1503fe36</id>
+      <masked>false</masked>
+      <name>var_PartId</name>
+   </variable>
+</TestCaseEntity>

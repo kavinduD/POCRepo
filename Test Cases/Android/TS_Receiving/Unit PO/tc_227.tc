@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the correct behavior of the Finish button is verified when no changes are done on the ReceivingUnitPO screen</description>
+   <name>tc_227</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4c63c99-372c-4829-a231-9ca4a2ccf174</testCaseGuid>
+</TestCaseEntity>

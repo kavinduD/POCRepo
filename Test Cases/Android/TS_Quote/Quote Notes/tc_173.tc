@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the navigation to the QuoteContact screen from the QuoteNotes screen is verified.</description>
+   <name>tc_173</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db94273a-037c-44e3-961a-fc154e77ec9d</testCaseGuid>
+</TestCaseEntity>

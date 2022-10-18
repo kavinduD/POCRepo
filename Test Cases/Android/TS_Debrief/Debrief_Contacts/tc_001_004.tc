@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a task contacts on mobile. This test case focuses on the happy path</description>
+   <name>tc_001_004</name>
+   <tag>Debrief_Contacts_001</tag>
+   <comment></comment>
+   <testCaseGuid>a276c9b5-1414-4191-8698-382b375e24c8</testCaseGuid>
+</TestCaseEntity>

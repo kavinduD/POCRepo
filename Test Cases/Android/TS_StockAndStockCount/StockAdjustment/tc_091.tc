@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Focuses on happy path.parts (serial tracked, non-tracked, lot tracked, and serial lot tracked) are transferred to a usable stock from the unusable stock of user’s place for stock.</description>
+   <name>tc_091</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb82e25c-cb73-44f4-a584-1eef5e2b4409</testCaseGuid>
+</TestCaseEntity>

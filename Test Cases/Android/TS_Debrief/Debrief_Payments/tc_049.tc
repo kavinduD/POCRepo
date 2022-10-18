@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a debit card payment is successfully added on the mobile</description>
+   <name>tc_049</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be3f6d11-870d-4397-b28d-2d5b1261ad46</testCaseGuid>
+</TestCaseEntity>

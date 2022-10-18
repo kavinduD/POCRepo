@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a calendar exception is added on mobile successfully.</description>
+   <name>tc_147</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>1468bcd8-b246-42de-91de-cba4f36e0fa3</testCaseGuid>
+</TestCaseEntity>

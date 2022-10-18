@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an Add button is added on a custom standard screen.</description>
+   <name>tc_339</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d737e5da-4f3e-47c9-882e-cbacf7edd490</testCaseGuid>
+</TestCaseEntity>

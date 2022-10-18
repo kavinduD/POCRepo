@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new quote note is added on mobile.</description>
+   <name>tc_174</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89c194ca-abbd-415b-9bf9-2b46ab07fea1</testCaseGuid>
+</TestCaseEntity>

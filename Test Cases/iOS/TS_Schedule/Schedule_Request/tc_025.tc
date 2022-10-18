@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Adding a new request unhappy path</description>
+   <name>tc_025</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>3d1f96eb-9865-47c0-a10a-d1f600e7ef2e</testCaseGuid>
+</TestCaseEntity>

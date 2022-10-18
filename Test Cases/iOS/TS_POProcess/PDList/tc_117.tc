@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the approval status of a PO is changed from Submitted to Approved</description>
+   <name>tc_117</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>f6ee62ed-28d1-4b0b-ae62-1fc92dd26ea5</testCaseGuid>
+</TestCaseEntity>

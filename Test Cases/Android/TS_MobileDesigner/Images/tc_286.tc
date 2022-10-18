@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an image for small icons is selected and set, to be used by the theme.</description>
+   <name>tc_286</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5d7681b-ceaf-4aa8-a9da-44ef509daddd</testCaseGuid>
+</TestCaseEntity>

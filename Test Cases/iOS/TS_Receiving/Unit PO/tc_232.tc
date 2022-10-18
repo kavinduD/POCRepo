@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where serial and lot IDs are added for serialized- lot identified receiving units, on the ReceivingUnitPO screen</description>
+   <name>tc_232</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efa198fa-b945-4acb-ad9c-2e383b060267</testCaseGuid>
+</TestCaseEntity>

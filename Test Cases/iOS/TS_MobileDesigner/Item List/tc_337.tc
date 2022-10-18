@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a screen item is deleted on a custom screen.</description>
+   <name>tc_337</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8321f45d-b053-49a7-a176-0b325c85adc9</testCaseGuid>
+</TestCaseEntity>

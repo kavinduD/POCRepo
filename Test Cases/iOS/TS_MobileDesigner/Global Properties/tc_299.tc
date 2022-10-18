@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a global menu item are previewed.</description>
+   <name>tc_299</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abbe2f62-8b0d-4ba1-9474-ed08df25b69d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the ability to reject an open task on the JobList is verified.</description>
+   <name>tc_135</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>f0d3c5f5-ca55-41ac-9bb6-b1809413671d</testCaseGuid>
+</TestCaseEntity>

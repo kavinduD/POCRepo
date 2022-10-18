@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>his test case focuses on the happy path where the navigation to the ReceivingUnitPOList screen from the ReceivingUnitPO screen is verified.</description>
+   <name>tc_235</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa58abb4-3370-481c-9337-28b02b496bbf</testCaseGuid>
+</TestCaseEntity>

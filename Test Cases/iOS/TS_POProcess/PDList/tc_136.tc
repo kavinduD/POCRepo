@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an approved PO is posted</description>
+   <name>tc_136</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>7b920f4b-47af-4fd2-bc06-c837481c4455</testCaseGuid>
+</TestCaseEntity>

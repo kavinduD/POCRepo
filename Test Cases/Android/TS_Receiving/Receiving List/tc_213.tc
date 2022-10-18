@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the receipt data available on the mobile is verified against the data available on the FSM Client.</description>
+   <name>tc_213</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d73b6433-f30c-49e1-a78a-363ce43d0113</testCaseGuid>
+</TestCaseEntity>

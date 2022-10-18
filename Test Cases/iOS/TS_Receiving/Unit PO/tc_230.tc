@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where lot IDs are added for the lot identified receiving units, on the ReceivingUnitPO screen.</description>
+   <name>tc_230</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac9b7317-6b71-40f8-bff9-5af1923eb509</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where, the validation on serial ID is verified when receiving new stock for a serial tracked part.</description>
+   <name>tc_082</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>cfb3cfdb-9c4b-4f57-a3cb-7add47b3e708</testCaseGuid>
+</TestCaseEntity>

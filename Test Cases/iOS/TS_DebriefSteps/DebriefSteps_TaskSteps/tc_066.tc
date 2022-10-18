@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a signature required task step is set to complete on the DebriefTaskSteps screen, without adding a signature.</description>
+   <name>tc_066</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>395b0839-513a-4c07-80f1-779de433c935</testCaseGuid>
+</TestCaseEntity>

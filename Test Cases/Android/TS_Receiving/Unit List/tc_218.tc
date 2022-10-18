@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a shipment of two non-tracked part is received partially on mobile.</description>
+   <name>tc_218</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfb9d24b-3e43-4746-a80e-4ae3c9a4a5db</testCaseGuid>
+</TestCaseEntity>

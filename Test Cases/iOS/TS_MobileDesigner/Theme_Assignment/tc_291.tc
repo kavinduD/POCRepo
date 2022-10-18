@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a pending revision is previewed.</description>
+   <name>tc_291</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4800806-b5e5-45e4-a796-0cad4cdc32a6</testCaseGuid>
+</TestCaseEntity>

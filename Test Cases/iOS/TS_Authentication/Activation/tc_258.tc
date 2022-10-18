@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the user is logged into the application when ‘Require Login’ is disabled.</description>
+   <name>tc_258</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8b16abd-bd2b-49d7-af62-cd88fcd716bd</testCaseGuid>
+</TestCaseEntity>

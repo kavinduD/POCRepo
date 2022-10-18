@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for meters with Minimum reading are verified.</description>
+   <name>tc_043</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc28f052-a892-4fc5-ac51-5e7ddbda6a32</testCaseGuid>
+</TestCaseEntity>

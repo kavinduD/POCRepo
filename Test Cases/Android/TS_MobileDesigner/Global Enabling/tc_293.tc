@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the global menu items are enabled/ disabled.</description>
+   <name>tc_293</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeddaa5a-9819-44e4-846c-5be30b216df6</testCaseGuid>
+</TestCaseEntity>

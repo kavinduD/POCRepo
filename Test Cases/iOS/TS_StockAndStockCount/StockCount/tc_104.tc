@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validation for repeated lot Ids is verified, when reporting stock count details for a lot tracked part.</description>
+   <name>tc_104</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>f7d89b11-7d70-4cd5-a9d1-9da14c786e66</testCaseGuid>
+</TestCaseEntity>

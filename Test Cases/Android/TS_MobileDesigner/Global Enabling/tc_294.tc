@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the changes on the global menu are previewed.</description>
+   <name>tc_294</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be77f32c-2cd0-4e0a-991d-37ed96e43e1d</testCaseGuid>
+</TestCaseEntity>

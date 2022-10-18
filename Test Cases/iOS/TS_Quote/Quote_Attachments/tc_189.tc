@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where navigation to the Attachment Full Screen from the QuoteAttachmentList screen is verified</description>
+   <name>tc_189</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>ef32323b-86ba-4825-85a5-13fc9af8b556</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the order of the home menu items is modified on a pending revision.</description>
+   <name>tc_309</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f935ea11-feb3-48b8-865c-17b9c4484af8</testCaseGuid>
+</TestCaseEntity>

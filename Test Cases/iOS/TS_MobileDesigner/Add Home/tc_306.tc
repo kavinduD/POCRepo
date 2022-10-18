@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new home menu item is added and saved on the Add Home Menu Item screen.</description>
+   <name>tc_306</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b586a3e3-5b64-469a-b429-2b2dbfc0e3f7</testCaseGuid>
+</TestCaseEntity>

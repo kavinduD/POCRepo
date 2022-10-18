@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Adding a new request</description>
+   <name>tc_024</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f8db0b6-ad8b-4892-b0ae-1b1d6af51342</testCaseGuid>
+</TestCaseEntity>

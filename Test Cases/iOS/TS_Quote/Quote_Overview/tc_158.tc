@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where a sync error is triggered when an invalid Place ID is used on the QuoteOverview screen when adding a new quote</description>
+   <name>tc_158</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>aedb3aac-3406-4907-a06a-be8351add25d</testCaseGuid>
+</TestCaseEntity>

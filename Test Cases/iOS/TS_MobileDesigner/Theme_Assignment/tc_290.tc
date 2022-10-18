@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a selected theme is saved for a pending revision.</description>
+   <name>tc_290</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbe2e307-bd09-47ce-b9f2-22ba664d1419</testCaseGuid>
+</TestCaseEntity>

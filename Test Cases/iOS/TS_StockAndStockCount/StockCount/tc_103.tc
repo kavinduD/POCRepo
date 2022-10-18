@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validation for repeated serial IDs is verified when reporting stock count details for a serial tracked part.</description>
+   <name>tc_103</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>e54cc72e-196c-44c0-9f7f-c1972017dbb7</testCaseGuid>
+</TestCaseEntity>

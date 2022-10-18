@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the ‘Required Completed’ product status (calculated task step status) is verified when task unit steps are available on the task</description>
+   <name>tc_077</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75d61b3f-4c66-4737-8008-0570d8995509</testCaseGuid>
+</TestCaseEntity>

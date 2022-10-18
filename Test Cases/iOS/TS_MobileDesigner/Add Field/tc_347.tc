@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where, a custom field is added on a baseline standard screen.</description>
+   <name>tc_347</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>147a9dc6-dbbd-46aa-a340-218193140c90</testCaseGuid>
+</TestCaseEntity>

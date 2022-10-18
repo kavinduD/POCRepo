@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where parts (serial tracked, non-tracked, lot tracked, and serial lot tracked) are transferred to an unusable stock from the unusable stock of user’s place for stock.</description>
+   <name>tc_090</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>20f5a6c8-5e65-40c5-b6c4-b92ee984d792</testCaseGuid>
+</TestCaseEntity>

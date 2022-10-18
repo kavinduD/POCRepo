@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new design is added by copying metadata from a specific design/ revision.</description>
+   <name>tc_275</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cb50f6d-50b8-41c1-ab7c-4b7235fca32f</testCaseGuid>
+</TestCaseEntity>

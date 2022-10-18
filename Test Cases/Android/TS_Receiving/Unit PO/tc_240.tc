@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a non-tracked part are modified.</description>
+   <name>tc_240</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99fd93bf-b090-4b1b-8eda-1219ce7c36e7</testCaseGuid>
+</TestCaseEntity>

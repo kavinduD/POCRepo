@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a task with required task steps is set to completed after completing the task steps.</description>
+   <name>tc_068</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a09e6123-35b0-486f-952e-7391c5fbdb36</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the ‘In Process’ product status (calculated task step status) is verified when task unit steps are available on the task</description>
+   <name>tc_076</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae2ba6c-5e39-4596-b506-82a3ab4e2936</testCaseGuid>
+</TestCaseEntity>

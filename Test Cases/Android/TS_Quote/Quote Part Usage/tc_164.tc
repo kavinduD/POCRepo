@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an existing quote part usage is deleted on mobile.</description>
+   <name>tc_164</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97520c5d-67ad-4933-87ce-caebf5c2b388</testCaseGuid>
+</TestCaseEntity>

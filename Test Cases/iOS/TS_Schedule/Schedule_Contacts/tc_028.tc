@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Adding same contact twice and check sync error focuses on an unhappy path</description>
+   <name>tc_028</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>26ef2c98-3b9e-442f-95f4-06d852f83041</testCaseGuid>
+</TestCaseEntity>

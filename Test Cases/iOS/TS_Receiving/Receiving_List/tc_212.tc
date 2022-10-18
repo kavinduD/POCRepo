@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy where the availability of the Receiving global menu item is verified when no receipts are available on the mobile device.</description>
+   <name>tc_212</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6cf5c3a-d014-4e27-af03-9b656fea92eb</testCaseGuid>
+</TestCaseEntity>

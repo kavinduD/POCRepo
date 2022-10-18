@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>stock count details are added for a serial tracked part at user’s place for stock.</description>
+   <name>tc_098</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cadbfc0e-608a-403b-9b75-94fe2bbe0bb7</testCaseGuid>
+</TestCaseEntity>

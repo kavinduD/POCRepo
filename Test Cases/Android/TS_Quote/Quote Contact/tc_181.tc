@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a quote contact is added by selecting from the place_id contacts.</description>
+   <name>tc_181</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8d3ffd0-c103-40f0-8744-2156f770d999</testCaseGuid>
+</TestCaseEntity>

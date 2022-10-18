@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where stock count details are added for a serial tracked part at user’s place for stock.</description>
+   <name>tc_098</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a54eec42-2bd2-4404-8b95-9501a64b564a</testCaseGuid>
+</TestCaseEntity>

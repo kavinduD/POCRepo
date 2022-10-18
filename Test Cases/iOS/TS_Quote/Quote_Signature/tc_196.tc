@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the signature required validation on QuoteSignature screen is verified.</description>
+   <name>tc_196</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>e583f4e4-ef2b-4a6c-ba58-fb6475a8fdb3</testCaseGuid>
+</TestCaseEntity>

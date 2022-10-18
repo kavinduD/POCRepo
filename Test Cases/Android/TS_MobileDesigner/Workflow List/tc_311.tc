@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the available items on the Workflows screen are verified.</description>
+   <name>tc_311</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3415172-1cef-4641-9d92-8feed1d76658</testCaseGuid>
+</TestCaseEntity>

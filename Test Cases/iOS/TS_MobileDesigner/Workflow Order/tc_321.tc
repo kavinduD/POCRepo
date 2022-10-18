@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the order of the enabled screens is previewed on a custom Debrief WF.</description>
+   <name>tc_321</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5d40585-6f37-4c20-b0ea-d49a8dfad4c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the customer signature is cleared on the QuoteCustomerSignature screen on FSMi client.</description>
+   <name>tc_201</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>f81682e9-4868-4c2f-8302-e25e8e5a961a</testCaseGuid>
+</TestCaseEntity>

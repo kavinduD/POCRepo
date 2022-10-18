@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where stock count details are reset for a non-tracked part.</description>
+   <name>tc_105</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d75ba80e-1a5b-4b62-a4db-d30e302da03a</testCaseGuid>
+</TestCaseEntity>

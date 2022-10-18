@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a reported quote note is deleted on the mobile.</description>
+   <name>tc_178</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6235df0e-f9bb-4ed3-b5a4-71365ac88c33</testCaseGuid>
+</TestCaseEntity>

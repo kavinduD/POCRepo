@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a calendar exception is deleted on the mobile</description>
+   <name>tc_149</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>bc7828a4-1a3e-47af-b955-c52711910094</testCaseGuid>
+</TestCaseEntity>

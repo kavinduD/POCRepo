@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an attached photo is edited on the mobile.</description>
+   <name>tc_192</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbd4cdbf-f8ec-4533-bd22-6d3b41b8ea4b</testCaseGuid>
+</TestCaseEntity>

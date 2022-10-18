@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for meters with Maximum Reading are verified.</description>
+   <name>tc_044</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>026dfd82-8505-4033-b3a5-a19cd9e4d79e</testCaseGuid>
+</TestCaseEntity>

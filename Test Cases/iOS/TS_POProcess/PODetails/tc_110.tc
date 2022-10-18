@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where PO lines are added for serial tracked, non-tracked, lot tracked, and serial-lot tracked parts on an existing PO</description>
+   <name>tc_110</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>6e46a7f2-0f91-4137-97c4-59a0fb83ac94</testCaseGuid>
+</TestCaseEntity>

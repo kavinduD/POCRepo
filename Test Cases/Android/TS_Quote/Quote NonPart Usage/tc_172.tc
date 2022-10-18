@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the bill prices on quote non-part usage records are verified.</description>
+   <name>tc_172</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2bc9ab7-b10b-4218-8db2-6d136f5f5f31</testCaseGuid>
+</TestCaseEntity>

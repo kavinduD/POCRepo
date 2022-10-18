@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where outstanding payment amount is verified using multiple cash payments.</description>
+   <name>tc_051</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>85f405d7-35e7-42d2-89ef-349c541c7351</testCaseGuid>
+</TestCaseEntity>

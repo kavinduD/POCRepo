@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The PO lines are added for serial tracked, non-tracked, lot tracked, and serial-lot tracked parts on an existing PO.</description>
+   <name>tc_110</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd47dca3-80e4-4fd8-89c4-c081f22d0766</testCaseGuid>
+</TestCaseEntity>

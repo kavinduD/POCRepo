@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an image set for large/small icons are cleared.</description>
+   <name>tc_288</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c71b8161-58c6-421f-a9eb-6005985b1064</testCaseGuid>
+</TestCaseEntity>

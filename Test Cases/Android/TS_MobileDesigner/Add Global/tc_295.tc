@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for save are verified on the Add Global screen</description>
+   <name>tc_295</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78b84950-7ee1-43e6-86d4-4983746b1f29</testCaseGuid>
+</TestCaseEntity>

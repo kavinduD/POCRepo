@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where app permissions are granted while activating the FSMA application.</description>
+   <name>tc_249</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fcc3dd3-2511-487c-97ac-9e578796b44d</testCaseGuid>
+</TestCaseEntity>

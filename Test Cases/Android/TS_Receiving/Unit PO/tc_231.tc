@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for the mandatory fields are verified on the FSMa client</description>
+   <name>tc_231</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be90894c-25f1-4757-9948-c4712ccc0957</testCaseGuid>
+</TestCaseEntity>

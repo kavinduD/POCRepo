@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test focuses on the happy path where a quality code is added, modified and deleted on the mobile.</description>
+   <name>tc_060_061_062</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc3f5d4-e121-4fed-bf66-ca8da22fdb8a</testCaseGuid>
+</TestCaseEntity>

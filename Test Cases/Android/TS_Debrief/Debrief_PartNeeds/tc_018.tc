@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Debrief Part Needs: Add a part need: verify validations</description>
+   <name>tc_018</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea9ef682-0afd-4e65-91c6-59dadc46e4b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where tiles available on the home screen, is verified.</description>
+   <name>tc_203</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60f5f904-5e23-4d95-9979-fbd0a7dd709f</testCaseGuid>
+</TestCaseEntity>

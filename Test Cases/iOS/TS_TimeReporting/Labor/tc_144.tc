@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a reported labor record connected to a task is deleted under time reporting.</description>
+   <name>tc_144</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>814a53f2-20b3-498a-b927-9f0cb8926d3f</testCaseGuid>
+</TestCaseEntity>

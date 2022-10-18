@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a pending revision is published successfully.</description>
+   <name>tc_277</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc726d70-9c08-4f8b-a0d8-f4067a5fc8d6</testCaseGuid>
+</TestCaseEntity>

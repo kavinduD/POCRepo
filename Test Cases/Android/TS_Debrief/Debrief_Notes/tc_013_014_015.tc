@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a new task note on mobile</description>
+   <name>tc_013_014_015</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fa117c6-21c6-428d-842f-bf5f4c4f556b</testCaseGuid>
+</TestCaseEntity>

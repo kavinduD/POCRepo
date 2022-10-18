@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where app permissions for location access is denied after activating the app.</description>
+   <name>tc_252</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac109aac-bc02-4bc6-8978-5b4f1100631b</testCaseGuid>
+</TestCaseEntity>

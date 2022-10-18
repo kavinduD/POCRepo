@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the Process button behavior is tested when PO data is not fully synced to/from the backend.</description>
+   <name>tc_114</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6df4a63-9a5a-4ff7-b906-363c2c8978a2</testCaseGuid>
+</TestCaseEntity>

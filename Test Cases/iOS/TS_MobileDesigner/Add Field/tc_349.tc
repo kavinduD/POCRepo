@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where, a custom button is added on a baseline standard screen.</description>
+   <name>tc_349</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc907ad5-7163-4915-9392-b3aa1588a747</testCaseGuid>
+</TestCaseEntity>

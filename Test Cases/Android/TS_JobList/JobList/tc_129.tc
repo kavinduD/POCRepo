@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the navigation to the DebriefOverview screen from the JobList screen is verified.</description>
+   <name>tc_129</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a72607a1-ad9d-44fc-a4d3-6776ae16ee42</testCaseGuid>
+</TestCaseEntity>

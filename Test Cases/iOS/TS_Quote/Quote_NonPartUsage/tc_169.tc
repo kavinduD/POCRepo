@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where available information on a QuoteNonPartUsageList screen items is verified</description>
+   <name>tc_169</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>243d86f3-f5bf-4a75-a67e-83f89e10ae47</testCaseGuid>
+</TestCaseEntity>

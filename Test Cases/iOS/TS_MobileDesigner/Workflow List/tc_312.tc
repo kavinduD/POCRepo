@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a custom workflow is deleted on the Workflows screen.</description>
+   <name>tc_312</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84b69016-d7f3-44eb-b0c1-fac0d45ed289</testCaseGuid>
+</TestCaseEntity>

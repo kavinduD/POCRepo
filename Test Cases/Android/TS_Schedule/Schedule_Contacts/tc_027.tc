@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Add contact from place contacts happy path</description>
+   <name>tc_027</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9765ec96-bd96-4ba8-85aa-88354bf7e1d9</testCaseGuid>
+</TestCaseEntity>

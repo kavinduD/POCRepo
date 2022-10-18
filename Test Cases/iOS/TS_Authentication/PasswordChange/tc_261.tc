@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the password is changed from the ‘Admin’ screen with an invalid new password.</description>
+   <name>tc_261</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ee9369-7007-4ff3-bb1a-f28d3157e2f6</testCaseGuid>
+</TestCaseEntity>

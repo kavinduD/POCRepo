@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where availability of Stock Counts is displayed under Important Information section on the Home screen.</description>
+   <name>tc_210</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>e3fd71ae-4710-452f-9632-a8c48222e348</testCaseGuid>
+</TestCaseEntity>

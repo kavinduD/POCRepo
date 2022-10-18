@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Debrief Part Needs: Add a part need-Invalid stock location</description>
+   <name>tc_017</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>afac8ab1-b60d-413d-aba0-e356939ce946</testCaseGuid>
+</TestCaseEntity>

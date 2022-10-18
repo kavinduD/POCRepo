@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for the mandatory fields on the Add Design screen are verified.</description>
+   <name>tc_273</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67573e9e-e865-42da-ad9a-a66336ec836c</testCaseGuid>
+</TestCaseEntity>

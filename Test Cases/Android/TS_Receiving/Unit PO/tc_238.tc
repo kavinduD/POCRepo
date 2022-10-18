@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a lot identified part are modified.</description>
+   <name>tc_238</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9a1f9b0-95ee-4223-ba9e-a5ce61b3f61f</testCaseGuid>
+</TestCaseEntity>

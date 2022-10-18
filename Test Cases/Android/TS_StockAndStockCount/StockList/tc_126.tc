@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the nearest stock of a part is searched. For this test case to run successfully, the searched part should have stock that satisfy the search criteria.</description>
+   <name>tc_126</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>307d5af5-c96c-4249-84ca-0d29b0b04998</testCaseGuid>
+</TestCaseEntity>

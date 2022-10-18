@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for mandatory fields on the QuoteNonPartUsage screen are verified.</description>
+   <name>tc_167</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>f336eff9-370d-44ce-a96e-9852055ed768</testCaseGuid>
+</TestCaseEntity>

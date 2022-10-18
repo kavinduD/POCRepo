@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the search on JobList screen is verified.</description>
+   <name>tc_130</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>c59af4ce-369a-4c99-946b-bf144a4b9bd4</testCaseGuid>
+</TestCaseEntity>

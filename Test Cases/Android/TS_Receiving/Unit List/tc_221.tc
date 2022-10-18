@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a shipment of a lot-tracked part is received completely on mobile.</description>
+   <name>tc_221</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0db08ff-c732-4b20-aab5-2a8982133482</testCaseGuid>
+</TestCaseEntity>

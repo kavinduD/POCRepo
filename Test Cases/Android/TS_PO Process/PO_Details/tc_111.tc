@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for mandatory fields on the PurchaseDetail screen is verified</description>
+   <name>tc_111</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25f0b967-cb24-4886-b196-b6d4ff0a3dd8</testCaseGuid>
+</TestCaseEntity>

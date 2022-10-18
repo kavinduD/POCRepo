@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new quote is added on the QuoteOverview screen.</description>
+   <name>tc_154</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>c0200105-c350-4503-8deb-9c4c1082b492</testCaseGuid>
+</TestCaseEntity>

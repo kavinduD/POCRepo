@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where available information on a QuotePartUsageList screen items is verified.</description>
+   <name>tc_162</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80fd5579-4e7f-4b26-a54b-0046014ec63a</testCaseGuid>
+</TestCaseEntity>

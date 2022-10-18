@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The validations for mandatory fields on the PurchaseOrder screen are verified when a new PO is created</description>
+   <name>tc_109</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccdc7844-e583-4275-acea-f17fe698e74a</testCaseGuid>
+</TestCaseEntity>

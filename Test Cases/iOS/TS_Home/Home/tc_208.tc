@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where availability of Commitments is displayed under Important Information section on the Home screen.</description>
+   <name>tc_208</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>edd67168-f4ad-4c1e-bd8a-b9f687567ba2</testCaseGuid>
+</TestCaseEntity>

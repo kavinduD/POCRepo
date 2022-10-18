@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the items available on the Field List screen is verified.</description>
+   <name>tc_343</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26b4eee3-ef91-4e8c-8236-03e03d7d881c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>stock of serial tracked, lot tracked, non-tracked and serial lot tracked parts are removed from the user’s place for stock</description>
+   <name>tc_084</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efdf5919-d87b-415d-91de-d2aa3a6219f2</testCaseGuid>
+</TestCaseEntity>

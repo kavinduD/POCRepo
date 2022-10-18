@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for meters with the count type Increasing, Positive Change are verified</description>
+   <name>tc_042</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad5ae6a3-06e5-4621-9381-fe0c9d87d6d2</testCaseGuid>
+</TestCaseEntity>

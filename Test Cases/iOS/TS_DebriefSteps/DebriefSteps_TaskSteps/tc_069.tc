@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the availability of the task steps WF is verified, when the task does not contain task steps</description>
+   <name>tc_069</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>6951bb98-13d2-483e-896a-240a5b51a033</testCaseGuid>
+</TestCaseEntity>

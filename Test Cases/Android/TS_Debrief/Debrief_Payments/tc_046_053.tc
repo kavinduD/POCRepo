@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a cash payment is successfully added and deleted on mobile.</description>
+   <name>tc_046_053</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebeec8c4-58d0-401b-8b90-e84aa9d74cf5</testCaseGuid>
+</TestCaseEntity>

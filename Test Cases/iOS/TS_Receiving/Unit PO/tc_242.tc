@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a lot identified part are deleted.</description>
+   <name>tc_242</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>464de116-31d4-48a3-afb6-ed2c2d00d924</testCaseGuid>
+</TestCaseEntity>

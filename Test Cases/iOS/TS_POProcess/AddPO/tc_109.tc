@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for mandatory fields on the PurchaseOrder screen are verified, when a new PO is created</description>
+   <name>tc_109</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a06c0554-d476-4927-9a5e-04a50b9e0cc3</testCaseGuid>
+</TestCaseEntity>

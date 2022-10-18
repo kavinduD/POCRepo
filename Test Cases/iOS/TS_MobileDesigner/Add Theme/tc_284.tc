@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new theme is added specifying a source theme.</description>
+   <name>tc_284</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caa2d515-7fc8-4614-b5be-a85a326dede7</testCaseGuid>
+</TestCaseEntity>

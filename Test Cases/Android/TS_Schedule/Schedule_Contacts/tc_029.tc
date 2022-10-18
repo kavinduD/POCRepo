@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Focuses on an unhappy path where validations for mandatory fields on the contacts screen</description>
+   <name>tc_029</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54c700f-60a1-4cf2-a6a8-ee7b7f8d17c3</testCaseGuid>
+</TestCaseEntity>

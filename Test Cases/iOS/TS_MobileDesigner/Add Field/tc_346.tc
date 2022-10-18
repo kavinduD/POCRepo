@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where, the validation for Save is verified on the Add Field screen, when adding a field for a table column.</description>
+   <name>tc_346</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73c1fa4a-c465-475c-98a1-fde3e0ef9a3e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a task step is set to complete on the DebriefTaskSteps screen.</description>
+   <name>tc_055_057</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37984d57-18bb-4016-9a50-bbf152dd9b18</testCaseGuid>
+</TestCaseEntity>

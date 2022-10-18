@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a home menu item are modified/ added.</description>
+   <name>tc_307</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f701543c-e47d-4de3-964b-f610af5e1bea</testCaseGuid>
+</TestCaseEntity>

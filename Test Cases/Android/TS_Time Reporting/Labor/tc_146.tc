@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case covers a scenario where the deletion is done on the DebriefLaborList screen under the relevant task , and the changes are verified on the time reporting calendar</description>
+   <name>tc_146</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25a0538b-8f8c-4aae-9ba3-55f1aebb2213</testCaseGuid>
+</TestCaseEntity>

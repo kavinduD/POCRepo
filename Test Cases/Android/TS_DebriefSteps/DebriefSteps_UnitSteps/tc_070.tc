@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the product status is verified when the task contains task_units but no task_unit_steps</description>
+   <name>tc_070</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6588d58-dcf6-47df-81eb-7c5b405f99be</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a stock run is successfully posted on the mobile</description>
+   <name>tc_106</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>c387db34-0797-4212-8d74-fb3056c44ddd</testCaseGuid>
+</TestCaseEntity>

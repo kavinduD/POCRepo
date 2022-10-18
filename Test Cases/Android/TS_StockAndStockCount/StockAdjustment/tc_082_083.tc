@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation on serial id and the lot id  is verified when receiving new stock for a serial tracked part and a lot trackd part</description>
+   <name>tc_082_083</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0c335eb-9f7d-4012-82c9-e983f1b35147</testCaseGuid>
+</TestCaseEntity>

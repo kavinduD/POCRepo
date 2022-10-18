@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where serial deletion is tested while reporting stock count details for a serial tracked part.</description>
+   <name>tc_102</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>cad1ed4e-540e-4339-8bba-162156309893</testCaseGuid>
+</TestCaseEntity>

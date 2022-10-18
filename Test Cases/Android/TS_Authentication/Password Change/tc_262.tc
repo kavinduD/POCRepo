@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the password is changed from the ‘Admin’ screen.</description>
+   <name>tc_262</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d883da05-4df3-43a7-b271-b7545f7195f9</testCaseGuid>
+</TestCaseEntity>

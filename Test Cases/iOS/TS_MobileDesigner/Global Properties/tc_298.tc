@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a global menu item are modified/ added.</description>
+   <name>tc_298</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f098294a-fe82-4610-bc90-ec8777bfc06b</testCaseGuid>
+</TestCaseEntity>

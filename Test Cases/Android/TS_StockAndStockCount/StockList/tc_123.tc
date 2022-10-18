@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where technician’s stock synced down to the mobile device is compared and verified against the data available in the backend.</description>
+   <name>tc_123</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96c2f7f0-fb25-450e-98ce-b2ccff3a4b25</testCaseGuid>
+</TestCaseEntity>

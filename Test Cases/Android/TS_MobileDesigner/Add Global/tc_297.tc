@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new global menu item is added and saved on the Add Global screen.</description>
+   <name>tc_297</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f787ca8b-34d0-4577-b418-46e42f52a5b9</testCaseGuid>
+</TestCaseEntity>

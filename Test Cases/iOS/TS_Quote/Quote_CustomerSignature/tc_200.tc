@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the customer signature is added on the QuoteCustomerSignature screen.</description>
+   <name>tc_200</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>e26b280f-045b-4e41-b3a2-5b64f5ab1d8b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new Purchase Order is created on the PurchaseOrder screen on mobile.</description>
+   <name>tc_107</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79223fba-c29f-4b06-a23c-e5f570fe0d91</testCaseGuid>
+</TestCaseEntity>

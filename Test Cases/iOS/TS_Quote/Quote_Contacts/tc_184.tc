@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a reported quote contact is modified.</description>
+   <name>tc_184</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>6c08cca9-15f5-4a14-80ad-9f85bad87fb9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the password change is done on the FSM Mobile Admin screen, with an invalid old PW.</description>
+   <name>tc_259</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd96b3e0-ca45-4d6d-8e2f-eed7821b2303</testCaseGuid>
+</TestCaseEntity>

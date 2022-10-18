@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for mandatory fields on DebriefMeterReadings screen are verified</description>
+   <name>tc_045</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba5e5133-ea73-45d2-8cf4-bc29046a1754</testCaseGuid>
+</TestCaseEntity>

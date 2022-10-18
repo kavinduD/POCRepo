@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where WF menu items are modified, for a custom Debrief WF</description>
+   <name>tc_317</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7387aa3-6941-433b-96fd-628abc9f27df</testCaseGuid>
+</TestCaseEntity>

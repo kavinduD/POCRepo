@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for mandatory fields on the QuoteOverview screen is verified.</description>
+   <name>tc_155</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>93473ac3-b442-425f-99bf-108d9ce88a5a</testCaseGuid>
+</TestCaseEntity>

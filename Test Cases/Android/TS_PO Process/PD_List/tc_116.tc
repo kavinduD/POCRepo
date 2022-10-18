@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the approval status of a PO is changed from Pending to Submitted</description>
+   <name>tc_116</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcc9b18c-a3e0-4ed8-b984-544516821c1f</testCaseGuid>
+</TestCaseEntity>

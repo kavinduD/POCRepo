@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the Help, Label and Tip properties are modified on a screen, and changes are previewed.</description>
+   <name>tc_334</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b89b795b-96a1-4e54-bbb6-4ab62f58dda6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the order of the WF menu items is previewed, for a custom Debrief WF.</description>
+   <name>tc_319</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a7ea226-f074-4c3c-9181-0888dc4edb97</testCaseGuid>
+</TestCaseEntity>

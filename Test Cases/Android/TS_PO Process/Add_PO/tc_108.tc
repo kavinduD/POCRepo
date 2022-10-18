@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>An existing PO (header) is modified on the PurchaseOrder screen.</description>
+   <name>tc_108</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a343c947-f5cb-4aea-9801-9131c51193e3</testCaseGuid>
+</TestCaseEntity>

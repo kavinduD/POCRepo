@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a labor record is added on the AddLabor screen accessed through  the TimReporting screen.</description>
+   <name>tc_138</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28f0ee49-9533-4119-a987-8bbf776cda73</testCaseGuid>
+</TestCaseEntity>

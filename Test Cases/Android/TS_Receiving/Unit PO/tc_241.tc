@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a serialized part are deleted.</description>
+   <name>tc_241</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7c08dc8-53d3-4d62-8c74-107294b8aa39</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where, the validation on Lot ID is verified when receiving new stock for a lot tracked part</description>
+   <name>tc_083</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>506d1a0f-f34a-4685-b041-16dde3c0a88f</testCaseGuid>
+</TestCaseEntity>

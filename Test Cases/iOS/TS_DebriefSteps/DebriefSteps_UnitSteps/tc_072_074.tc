@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a task unit step is complete and set to incomplete from the task step screen</description>
+   <name>tc_072_074</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d55137a5-16b9-40c2-aac0-a8ac5ee608dd</testCaseGuid>
+</TestCaseEntity>

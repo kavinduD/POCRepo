@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where colors are set to a theme</description>
+   <name>tc_285</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a580be90-2840-4d5a-a212-3ee021c65fc1</testCaseGuid>
+</TestCaseEntity>

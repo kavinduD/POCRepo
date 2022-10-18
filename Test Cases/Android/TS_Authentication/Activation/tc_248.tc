@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where app permissions are denied on FSMa while activating the application.</description>
+   <name>tc_248</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dcd3e06-7601-4a10-8021-1ac849aa2d9c</testCaseGuid>
+</TestCaseEntity>

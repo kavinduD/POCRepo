@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the navigation to the QuoteNonPartUsage screen from the QuotePartUsage screen is verified</description>
+   <name>tc_159</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ca25808-24f1-4854-bc77-775bdb9a1349</testCaseGuid>
+</TestCaseEntity>

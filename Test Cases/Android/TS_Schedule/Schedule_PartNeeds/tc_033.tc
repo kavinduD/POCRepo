@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding part need on the DebriefPartNeeds screen. This test case focuses on the happy path where a part need is successfully added on a scheduled request.</description>
+   <name>tc_033</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e06686e-4463-411c-8447-bf2bbdbc90f4</testCaseGuid>
+</TestCaseEntity>

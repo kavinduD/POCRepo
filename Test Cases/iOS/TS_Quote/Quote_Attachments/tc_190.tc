@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an attachment is deleted on the QuoteAttachmentList screen.</description>
+   <name>tc_190</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>e9bcbe69-3c01-4c93-8756-489b0fce3fd9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the password is changed from FSM Mobile Login screen.</description>
+   <name>tc_264</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d732b80b-6b9f-469d-83b0-449aca0c2724</testCaseGuid>
+</TestCaseEntity>

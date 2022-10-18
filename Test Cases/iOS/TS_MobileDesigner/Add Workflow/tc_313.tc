@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for the save are verified on the Add Workflow screen.</description>
+   <name>tc_313</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4dc50f1-d317-4eca-b870-b24b89a55968</testCaseGuid>
+</TestCaseEntity>

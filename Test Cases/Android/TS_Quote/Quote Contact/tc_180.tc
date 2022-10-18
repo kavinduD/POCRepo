@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for required fields on the QuoteContact screen are verified.</description>
+   <name>tc_180</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7161c88-ed7a-4783-90f5-10bfa5222379</testCaseGuid>
+</TestCaseEntity>

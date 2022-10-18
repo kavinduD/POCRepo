@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the behavior of the hyperlinked PLACE.NAME, TASK.REQUEST_ID, TASK_CONTACT.PHONE, TASK_CONTACT.EMAIL_ADDRESS, REQUEST_UNIT.MODEL_ID on the DebriefOverview screen is verified.</description>
+   <name>tc_121</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>8a343b6e-9eb3-406c-8ca3-84f4d7e3d0fb</testCaseGuid>
+</TestCaseEntity>

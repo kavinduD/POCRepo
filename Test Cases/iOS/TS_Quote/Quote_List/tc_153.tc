@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the available data on the quotes listed on the QuoteList item is verified.</description>
+   <name>tc_153</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>b2822cd2-6ce8-42f7-b8f3-016ce3f0a826</testCaseGuid>
+</TestCaseEntity>

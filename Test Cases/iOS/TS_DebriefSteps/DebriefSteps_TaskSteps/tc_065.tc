@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where a task step signature is cleared, and the task step is set to incomplete.</description>
+   <name>tc_065</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>65fbc5e5-3203-4873-97a4-2bae86b60ee5</testCaseGuid>
+</TestCaseEntity>

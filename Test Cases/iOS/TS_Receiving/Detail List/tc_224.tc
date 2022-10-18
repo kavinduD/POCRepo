@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the correct behavior of the Process button is verified when tapped without adding any receiving units on a PO receipt.</description>
+   <name>tc_224</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edd56ecf-8a97-4d21-8f9c-f219a36c4a58</testCaseGuid>
+</TestCaseEntity>

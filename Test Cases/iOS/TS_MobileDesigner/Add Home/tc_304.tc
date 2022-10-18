@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for save are verified on the Add Home Menu Item screen.</description>
+   <name>tc_304</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>948e1867-1636-46c2-acd8-a392545fa111</testCaseGuid>
+</TestCaseEntity>

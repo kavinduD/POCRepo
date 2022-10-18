@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reporting expenses for the mobile user. This test case focuses on the happy path</description>
+   <name>tc_005_007_008</name>
+   <tag>Debrief_Expenses_005</tag>
+   <comment></comment>
+   <testCaseGuid>e832a58a-83b8-434c-98e1-e216ebff5a0d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where a payment record is tried to delete when PAYMENT_ALLOW_DELETE app param is set to N.</description>
+   <name>tc_054</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a57d30c8-293d-413f-b6b5-fcd6c473a9b6</testCaseGuid>
+</TestCaseEntity>

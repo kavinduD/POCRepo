@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validations for the mandatory fields on the QuoteNotes screen are verified.</description>
+   <name>tc_175</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb05a726-0214-4d1d-92fd-89dfdf4f0f90</testCaseGuid>
+</TestCaseEntity>

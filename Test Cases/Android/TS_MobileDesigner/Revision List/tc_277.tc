@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new revision is added on a custom design on mobile.</description>
+   <name>tc_277</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e48032bc-042f-4bc6-9489-ae3a268e7d49</testCaseGuid>
+</TestCaseEntity>

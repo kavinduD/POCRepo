@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a custom Debrief workflow is added on the Add Workflow screen.</description>
+   <name>tc_314</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fde8ed4f-b26d-4eb9-bb0b-a33b5fcb7fd6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the order of the global menu items is modified on a pending revision.</description>
+   <name>tc_300</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4fc0e88-205b-4ffa-a637-468dcc89f3a8</testCaseGuid>
+</TestCaseEntity>

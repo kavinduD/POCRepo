@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the behavior of job list filters is verified.</description>
+   <name>tc_127</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7fe8e60-94ab-44a6-bdae-d05774f4e84a</testCaseGuid>
+</TestCaseEntity>

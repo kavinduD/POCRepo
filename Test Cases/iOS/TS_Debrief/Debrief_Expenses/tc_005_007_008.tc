@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reporting expense, modifying and deleting. This test case focuses on the happy path</description>
+   <name>tc_005_007_008</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d8e3375b-ffae-44be-93c4-2ae0f11d8e9e</testCaseGuid>
+</TestCaseEntity>

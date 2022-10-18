@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where Signature Required validation is verified.</description>
+   <name>tc_063</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9b8392d-83e5-4f9b-8d6c-83872371f007</testCaseGuid>
+</TestCaseEntity>

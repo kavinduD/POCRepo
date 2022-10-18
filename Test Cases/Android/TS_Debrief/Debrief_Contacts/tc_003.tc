@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a task contacts from place_contact lookup on mobile. This test case focuses on the unhappy path</description>
+   <name>tc_003</name>
+   <tag>Debrief_Contacts_003</tag>
+   <comment></comment>
+   <testCaseGuid>f728092e-d6cf-4812-bef7-6e43079a0d97</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new part usage is added on the mobile successfully from a user connected stock under Miscellaneous parts.</description>
+   <name>tc_037</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a51d610e-d317-4c5b-83d4-0544f854643f</testCaseGuid>
+</TestCaseEntity>

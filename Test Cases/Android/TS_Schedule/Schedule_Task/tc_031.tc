@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: This test case focuses on the happy path where a new task is added on a scheduled request successfully on mobile.</description>
+   <name>tc_031</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f779da27-3d8c-4279-ac98-7d9120b5479f</testCaseGuid>
+</TestCaseEntity>

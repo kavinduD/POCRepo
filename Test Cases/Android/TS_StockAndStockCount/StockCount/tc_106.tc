@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case covers posting a stock count record with serial tracked, lot tracked, non-tracked and serial lot tracked parts.</description>
+   <name>tc_106</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b05229e9-62a9-4008-ab4a-71557d7f3140</testCaseGuid>
+</TestCaseEntity>

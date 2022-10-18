@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a serialized part are modified.</description>
+   <name>tc_237</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>790c591a-bd1c-4ab6-95c7-7182bd6bb9b3</testCaseGuid>
+</TestCaseEntity>

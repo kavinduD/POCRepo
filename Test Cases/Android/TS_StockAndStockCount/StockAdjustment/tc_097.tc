@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where stock adjustment is made from an invalid stock location, so that a sync error is triggered.</description>
+   <name>tc_097</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa03369-5505-4002-b724-095b14995b7f</testCaseGuid>
+</TestCaseEntity>

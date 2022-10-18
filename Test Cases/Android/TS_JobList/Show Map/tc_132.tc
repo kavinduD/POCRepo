@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where navigation to the task map from the JobList screen is verified.</description>
+   <name>tc_132</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a91f70fd-93e5-48d6-a8c8-5c8faf883e21</testCaseGuid>
+</TestCaseEntity>

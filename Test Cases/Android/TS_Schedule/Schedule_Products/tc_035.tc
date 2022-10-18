@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a new request_unit is added on a scheduled request.</description>
+   <name>tc_035</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3456e8c-042c-408d-b8ed-898cb3cfc586</testCaseGuid>
+</TestCaseEntity>

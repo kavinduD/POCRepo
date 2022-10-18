@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a screen item is modified on the Item Properties screen.</description>
+   <name>tc_341</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3bf89c5-2e43-4709-b182-1dd82d30370a</testCaseGuid>
+</TestCaseEntity>

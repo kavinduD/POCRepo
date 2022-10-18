@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a field is deleted on the Field List screen.</description>
+   <name>tc_344</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adbe9866-2344-4c37-8e41-855dbce5b6b6</testCaseGuid>
+</TestCaseEntity>

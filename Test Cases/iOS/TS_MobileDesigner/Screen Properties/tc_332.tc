@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the Force Order on a screen is modified. For this test case to run, the mobile user should have Studio access.</description>
+   <name>tc_332</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9e7fc39-764e-478a-adf4-b0fcef5e4ba1</testCaseGuid>
+</TestCaseEntity>

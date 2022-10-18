@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validating meter readings for meters with readings required check.</description>
+   <name>tc_041</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f6344c7-5020-49f9-b1c1-2450c1246b0f</testCaseGuid>
+</TestCaseEntity>

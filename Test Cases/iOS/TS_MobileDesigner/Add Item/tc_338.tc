@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for Save are verified on Add Screen Item screen.</description>
+   <name>tc_338</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea6affbd-a538-4371-8bd9-4e1051431cf7</testCaseGuid>
+</TestCaseEntity>

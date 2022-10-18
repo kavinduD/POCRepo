@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where meter readings are added, modified and deleted in mobile successfully.</description>
+   <name>tc_038_039_040</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d919a2cd-056f-4442-9b44-656d86bf5268</testCaseGuid>
+</TestCaseEntity>

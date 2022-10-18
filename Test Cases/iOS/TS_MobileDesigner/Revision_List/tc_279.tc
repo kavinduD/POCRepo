@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a successful revision load is done. For this test case to run, there should be at least one custom design, which is not the design assigned to the user.</description>
+   <name>tc_279</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46527125-252b-48fe-b787-3a051858e27d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where navigation to the QuoteCustomerSignature screen from the QuoteSignature is verified.</description>
+   <name>tc_195</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7feb9be8-2999-43ca-a45b-c9d3d2970d20</testCaseGuid>
+</TestCaseEntity>

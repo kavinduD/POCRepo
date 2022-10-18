@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the available items on the Menu List screen verified</description>
+   <name>tc_292</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7917a007-9698-4df6-aa6a-ffbafd611281</testCaseGuid>
+</TestCaseEntity>

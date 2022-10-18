@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a job list item is verified</description>
+   <name>tc_131</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5f49d9-97e0-4f1f-a8bf-166e13eb8f23</testCaseGuid>
+</TestCaseEntity>

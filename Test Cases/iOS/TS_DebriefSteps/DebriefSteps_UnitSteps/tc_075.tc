@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the ‘Not Started’ product status (calculated task step status) is verified when task unit steps are available on the task</description>
+   <name>tc_075</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>56e1c49c-d36e-4291-9799-578e6a539594</testCaseGuid>
+</TestCaseEntity>

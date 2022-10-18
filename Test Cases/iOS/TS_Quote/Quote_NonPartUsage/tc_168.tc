@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a quote non-part usage is added on the mobile.</description>
+   <name>tc_168</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>9c367185-721d-4782-aaf6-fe358c6a7d2c</testCaseGuid>
+</TestCaseEntity>

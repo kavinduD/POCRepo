@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where part detail available on the StockTabs screen are verified against the data available on the FSM client</description>
+   <name>tc_125</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43728d5c-4ab0-4206-899f-5ac574dc39d3</testCaseGuid>
+</TestCaseEntity>

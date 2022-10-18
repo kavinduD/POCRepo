@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where quantity is added for non-tracked receiving units, on the ReceivingUnitPO screen.</description>
+   <name>tc_234</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7175963b-dc3c-4c97-8df0-3b8b9bcee271</testCaseGuid>
+</TestCaseEntity>

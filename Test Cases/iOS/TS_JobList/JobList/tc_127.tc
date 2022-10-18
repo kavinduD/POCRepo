@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the behavior of job list filters is verified. For this test case to run, the user should have assigned tasks (change orders, PMs) and team tasks.</description>
+   <name>tc_127</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>ac1c52ef-8605-4fc3-a95a-13566fc36aa5</testCaseGuid>
+</TestCaseEntity>

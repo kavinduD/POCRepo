@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where validation for Required task step is verified when completing the task</description>
+   <name>tc_067</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8bc6e72-725c-40b4-a3ed-55325ab18d01</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a part need from the SchedulePartNeeds screen to trigger a sync error for invalid stock location.</description>
+   <name>tc_034</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>003e0fd3-e04a-47aa-872a-eddbe455d09b</testCaseGuid>
+</TestCaseEntity>

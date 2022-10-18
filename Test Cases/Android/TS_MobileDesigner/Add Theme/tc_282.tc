@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validations for mandatory fields on the Add Theme screen is verified.</description>
+   <name>tc_282</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad4b0a98-98a9-4500-b859-b219bdd4d4ea</testCaseGuid>
+</TestCaseEntity>

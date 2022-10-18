@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where parts (serial tracked, non-tracked, lot tracked, and serial lot tracked) are received into a user’s stock. This test case only covers bad in receiving scenario.</description>
+   <name>tc_080</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>a08d3510-47c3-439f-8117-75a8eb1af500</testCaseGuid>
+</TestCaseEntity>

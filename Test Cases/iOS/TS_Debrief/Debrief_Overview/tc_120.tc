@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the behavior of the FULL_ADDRESS hyperlink on the DebriefOverview screen is verified</description>
+   <name>tc_120</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d3b670c1-73c4-4353-bc4b-db94e1832036</testCaseGuid>
+</TestCaseEntity>

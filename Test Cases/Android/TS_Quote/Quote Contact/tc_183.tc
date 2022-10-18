@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where available information on a QuoteContactList item is verified.</description>
+   <name>tc_183</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da197c0e-ee04-40d5-8fea-be4213c86c73</testCaseGuid>
+</TestCaseEntity>

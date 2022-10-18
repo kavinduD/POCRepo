@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where reported units for a non-tracked part are deleted.</description>
+   <name>tc_244</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>943970eb-1282-4d3f-b80e-c40e57a008e3</testCaseGuid>
+</TestCaseEntity>

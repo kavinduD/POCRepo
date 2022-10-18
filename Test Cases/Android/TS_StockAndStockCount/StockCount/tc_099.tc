@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where stock count details are added for a non-tracked part at user’s place for stock</description>
+   <name>tc_099</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f00964e9-2a9c-4c94-a7dc-22548b139f41</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a task step signature is added, and the task step is successfully set to complete.</description>
+   <name>tc_064</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>12bb1b04-37e1-4de2-8d07-aa34cc38067b</testCaseGuid>
+</TestCaseEntity>

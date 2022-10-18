@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+<<<<<<<< HEAD:IFS_FSM_MobileAutomation/Test Cases/iOS/TS_MobileDesigner/Global Enabling/tc_293.tc
+   <description>This test case focuses on the happy path where the global menu items are enabled/ disabled.</description>
+   <name>tc_293</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87ffdaf6-0363-4ec3-8f79-00b120fb097d</testCaseGuid>
+========
+   <description></description>
+   <name>tc_328</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41bc17f0-d1c5-405f-ad19-0a466577639d</testCaseGuid>
+>>>>>>>> SupportBranch01:IFS_FSM_MobileAutomation/Test Cases/Android/TS_MobileDesigner/Add Screen/tc_328.tc
+</TestCaseEntity>

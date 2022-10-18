@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>the validation on Lot ID is verified when transferring a lot tracked part from the usable stock of the user’s place for stock to another usable stock.</description>
+   <name>tc_096</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6338b7f2-83e4-45e0-9b2f-bf327e82f499</testCaseGuid>
+</TestCaseEntity>

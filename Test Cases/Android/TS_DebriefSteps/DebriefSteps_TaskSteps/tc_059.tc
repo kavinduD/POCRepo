@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where attachments added on a task step.</description>
+   <name>tc_059</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f72162ad-dbf2-4fbd-b019-4ad35f977cb9</testCaseGuid>
+</TestCaseEntity>

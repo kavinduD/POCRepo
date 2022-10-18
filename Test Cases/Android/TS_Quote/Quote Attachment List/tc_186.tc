@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a static attachment is added on a quote.</description>
+   <name>tc_186</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbee59e5-0586-42cb-8d8d-04eb0d9e50e2</testCaseGuid>
+</TestCaseEntity>

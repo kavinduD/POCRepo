@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where available information on an existing quote is verified against the backend</description>
+   <name>tc_157</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>365cdf12-bfca-4fce-b9f8-04d000e7d632</testCaseGuid>
+</TestCaseEntity>

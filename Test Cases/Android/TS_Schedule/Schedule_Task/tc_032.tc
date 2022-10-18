@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: This test case focuses on an unhappy path where validations for mandatory fields on ScheduleTask screen is verified.</description>
+   <name>tc_032</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19bd1cb0-8d1b-4596-994f-81e71e1dcf9e</testCaseGuid>
+</TestCaseEntity>

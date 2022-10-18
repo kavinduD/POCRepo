@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the validation for a unique name value is verified on the Add Global screen.</description>
+   <name>tc_296</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb61420-7cdd-47ad-a41f-d1712b80b71e</testCaseGuid>
+</TestCaseEntity>

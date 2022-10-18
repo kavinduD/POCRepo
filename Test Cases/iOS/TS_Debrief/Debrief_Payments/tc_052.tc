@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where outstanding payment amount is verified when payments are reported in different currencies.</description>
+   <name>tc_052</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>7d3919e5-84dc-495d-835f-26dd9cbdc84f</testCaseGuid>
+</TestCaseEntity>

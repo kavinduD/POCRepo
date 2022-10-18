@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a part usage using parts from my stock</description>
+   <name>tc_021_023</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>d4d18095-ee0a-43aa-ad01-93ab03741f5d</testCaseGuid>
+</TestCaseEntity>

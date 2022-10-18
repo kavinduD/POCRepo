@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the properties of a home menu item are previewed.</description>
+   <name>tc_308</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92b45b1a-02f3-463d-a247-6bbfce4d463f</testCaseGuid>
+</TestCaseEntity>

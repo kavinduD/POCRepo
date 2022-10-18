@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reporting expenses for the mobile user. This test case focuses on the unhappy path</description>
+   <name>tc_006</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>cf02f9a3-e478-4546-8d43-7bc2567d73f4</testCaseGuid>
+</TestCaseEntity>

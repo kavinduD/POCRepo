@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where the navigation to the ReceivingUnitPO screen from the ReceivingDetailList screen is verified.</description>
+   <name>tc_225</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>968fcac4-391c-4451-9d9f-4da284949aee</testCaseGuid>
+</TestCaseEntity>

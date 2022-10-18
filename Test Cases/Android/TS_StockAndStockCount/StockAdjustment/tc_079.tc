@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case focuses on the happy path where parts (serial tracked, non-tracked, lot tracked, and serial lot tracked) are received into a user’s stock.</description>
+   <name>tc_079</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6890f63-fee4-4edb-8d5d-bdd7b1170177</testCaseGuid>
+</TestCaseEntity>

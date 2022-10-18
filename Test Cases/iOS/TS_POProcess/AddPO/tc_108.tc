@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an existing PO (header) is modified on the PurchaseOrder screen. for this test case to run, one or more PO should be available on PurchaseOrderList screen</description>
+   <name>tc_108</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>1431cf87-4c5e-4ec1-a6ee-3ce9ff1af304</testCaseGuid>
+</TestCaseEntity>

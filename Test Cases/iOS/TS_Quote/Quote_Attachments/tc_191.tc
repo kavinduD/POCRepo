@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the correct behavior of the Attachment Card View screen is verified. For this test case to run, have a quote with previously added attachments, available on the device.</description>
+   <name>tc_191</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>4dc24582-9038-4ebe-aae4-efe5baf283b8</testCaseGuid>
+</TestCaseEntity>

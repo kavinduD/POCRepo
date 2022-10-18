@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where a PO line is modified on mobile.</description>
+   <name>tc_112</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d916527b-2e32-4c19-b4f7-e08cb42232cc</testCaseGuid>
+</TestCaseEntity>

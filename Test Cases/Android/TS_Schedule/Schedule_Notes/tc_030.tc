@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule workflow: Adding a new request text (note) on a scheduled request. This test case focuses on the happy path where a new request text (note) is added on a scheduled request successfully.</description>
+   <name>tc_030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96170100-22f6-4d02-8b79-ea05d9756cb0</testCaseGuid>
+</TestCaseEntity>

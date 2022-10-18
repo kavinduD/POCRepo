@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the unhappy path where, the validation on Lot ID is verified when removing stock of a lot tracked part from the usable stock of user’s place for stock</description>
+   <name>tc_088</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>4849aca5-f7b6-43dd-a9e7-0924f3324b83</testCaseGuid>
+</TestCaseEntity>

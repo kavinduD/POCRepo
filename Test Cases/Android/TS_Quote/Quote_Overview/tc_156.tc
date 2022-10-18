@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where an available quote is modified on the QuoteOverview screen</description>
+   <name>tc_156</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b3a9005-06bd-4c75-b308-a36e7afdcec8</testCaseGuid>
+</TestCaseEntity>

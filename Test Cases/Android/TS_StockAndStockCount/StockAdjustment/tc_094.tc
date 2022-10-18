@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case focuses on the unhappy path where, serial deletion is tested while swapping a serial tracked part from the usable stock of user’s place for stock to another usable stock.</description>
+   <name>tc_094</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44f6adde-b3f1-4cfd-9ac0-0153810b3073</testCaseGuid>
+</TestCaseEntity>

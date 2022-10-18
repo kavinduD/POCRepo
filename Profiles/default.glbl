@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Accepted'</initValue>
+      <name>taskStatus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>appPackage : Android</description>
+      <initValue>'com.metrix.metrixmobile'</initValue>
+      <name>var_AppIdAndroid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Person Id for FSM mobile App</description>
+      <initValue>'TAMOBU1'</initValue>
+      <name>var_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password for FSM mobile App</description>
+      <initValue>'TAMOBU1'</initValue>
+      <name>var_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Design name for Mobile designer</description>
+      <initValue>'David'</initValue>
+      <name>var_Contacts_FirstName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Last Name for the new contact,Invalid url for fsm app,Old password for the authentication </description>
+      <initValue>'TestLastName'</initValue>
+      <name>var_Contacts_LastName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Phone number for the new contact,confirm password for authentication</description>
+      <initValue>'0000000001'</initValue>
+      <name>var_Contacts_Phone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testemail@gmail.com'</initValue>
+      <name>var_Contacts_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'David'</initValue>
+      <name>var_Schedule_Contacts_Seq</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: LineCode</description>
+      <initValue>'Expense'</initValue>
+      <name>var_Expenses_LineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: Amount</description>
+      <initValue>'10.00'</initValue>
+      <name>var_Expenses_Amount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: Currency</description>
+      <initValue>'UNITED STATES DOLLAR'</initValue>
+      <name>var_Expenses_Currency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>appId : iOS</description>
+      <initValue>'com.ifs.FSM-Mobile-Push'</initValue>
+      <name>var_AppIdiOS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: LineCode after click on modify button,new password for the authentication</description>
+      <initValue>'Freight'</initValue>
+      <name>var_Expenses_LineCodeAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: Amount after click on modify button</description>
+      <initValue>'20'</initValue>
+      <name>var_Expenses_AmountAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Expenses: Currency after click on modify button</description>
+      <initValue>'Centavo'</initValue>
+      <name>var_Expenses_CurrencyAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10'</initValue>
+      <name>var_Labor_amount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Labor'</initValue>
+      <name>var_Labor_lineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Meeting'</initValue>
+      <name>var_Labor_lineCodeAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20'</initValue>
+      <name>var_Labor_amountAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Description for the revision Mobile designer</description>
+      <initValue>'Test text'</initValue>
+      <name>var_Notes_Text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Modified test text'</initValue>
+      <name>var_Notes_TextAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Modified test text'</initValue>
+      <name>var_Notes_TextLineCodeAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Text Line Code for Quotes</description>
+      <initValue>'Solution'</initValue>
+      <name>var_Notes_TextLineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MOBPLACE1'</initValue>
+      <name>var_PartNeeds_placeIdFrom</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'GOOD'</initValue>
+      <name>var_PartNeeds_locationFrom</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>partId for stock adjustments,part id for po process</description>
+      <initValue>'TA-SER-PART1'</initValue>
+      <name>var_PartNeeds_partId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>partID for the stock adjustments</description>
+      <initValue>'TA-NON-PART1'</initValue>
+      <name>var_PartNeeds_partIdAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>partID for stock Adjustment</description>
+      <initValue>'TA-MOBPLACE4'</initValue>
+      <name>var_PartNeeds_placeIdFromAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MOBPLACE2'</initValue>
+      <name>var_PartNeeds_placeIdFrom_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Lot tracked part,lot id for stock adjustment</description>
+      <initValue>'TA-LOT-PART1'</initValue>
+      <name>var_PartsUsed_lotPartId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-SER-CONTR-PART1'</initValue>
+      <name>var_PartsUsed_ControlledPartID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Billable Part'</initValue>
+      <name>var_PartsUsed_LineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MOBPLACE3'</initValue>
+      <name>var_PartsUsed_PlaceID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-SER-CONTR-PART1'</initValue>
+      <name>var_PartsUsed_ControlledPartId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Return to Stock'</initValue>
+      <name>var_PartsUsed_Code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123'</initValue>
+      <name>var_PartsUsed_SerialID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Description'</initValue>
+      <name>var_Schedule_Notes_TextLineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Callback'</initValue>
+      <name>var_Schedule_Notes_TextBlock</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01'</initValue>
+      <name>var_Request_PriorityNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Description for design</description>
+      <initValue>'Test description'</initValue>
+      <name>var_Request_Description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10'</initValue>
+      <name>var_Task_Duration</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>partID for stock adjustment</description>
+      <initValue>'TA-SER-LOT-PART1'</initValue>
+      <name>var_Schedule_PartNeeds_SerialLotTrackedPartID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MODEL1'</initValue>
+      <name>var_Products_ModelID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'128569'</initValue>
+      <name>var_Products_SerialID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Readings Required'</initValue>
+      <name>var_MeterReadings_MeterName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Min/Max Readings Specified'</initValue>
+      <name>var_MeterReadings_MeterName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Count Method-Increasing, Positive Change'</initValue>
+      <name>var_MeterReadings_MeterName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>quantity for quote,quantity for receiving</description>
+      <initValue>'10'</initValue>
+      <name>var_MeterReadings_MeterValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20'</initValue>
+      <name>var_MeterReadings_MeterValueAfterUpdate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Amount for time reporting;Bill price for quote</description>
+      <initValue>'200'</initValue>
+      <name>var_MeterReadings_MeterValueMax</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Receiving for LotID,LotID for receiving TA-SER-LOT-PART1</description>
+      <initValue>'2'</initValue>
+      <name>var_MeterReadings_MeterValueMin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12'</initValue>
+      <name>var_Payment_Reference</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mastercard'</initValue>
+      <name>var_Payment_CardType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5475477121013663'</initValue>
+      <name>var_Payment_CardNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'111'</initValue>
+      <name>var_Payment_VerificationNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>lotID for receiving</description>
+      <initValue>'05'</initValue>
+      <name>var_Payment_Month</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2025'</initValue>
+      <name>var_Payment_Year</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Cash'</initValue>
+      <name>var_Payment_PaymentMethodCash</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Check'</initValue>
+      <name>var_Payment_PaymentMethodCheck</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Credit Card'</initValue>
+      <name>var_Payment_PaymentMethodCredit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Debit Card'</initValue>
+      <name>var_Payment_PaymentMethodDebit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EURO'</initValue>
+      <name>var_Payment_Currency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-TT1-STEP1'</initValue>
+      <name>var_DebriefSteps_StepName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-TT1-STEP2'</initValue>
+      <name>var_DebriefSteps_StepName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-TT1-STEP3'</initValue>
+      <name>var_DebriefSteps_StepName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Symptom for QualityCodes</description>
+      <initValue>'TA-Product Damaged'</initValue>
+      <name>var_QualityCodes_Symptom</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Problem for the QualityCodes</description>
+      <initValue>'TA-Defective'</initValue>
+      <name>var_QualityCodes_Problem</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Resolution for the QualityCodes</description>
+      <initValue>'TA-Repair'</initValue>
+      <name>var_QualityCodes_Resolution</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Symptom After Modify</description>
+      <initValue>'TA-Product Failure'</initValue>
+      <name>var_QualityCodes_SymptomAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Problem After Modify</description>
+      <initValue>'TA-Component Failure'</initValue>
+      <name>var_QualityCodes_ProblemAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Resolution After Modify</description>
+      <initValue>'TA-Replace'</initValue>
+      <name>var_QualityCodes_ResolutionAfterModify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MODEL1'</initValue>
+      <name>var_DebriefSteps_ProductName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Receipt for the Adjustments</description>
+      <initValue>'Receipt'</initValue>
+      <name>var_Stock_AdjustmentReason</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Quantity for the Adjustments,quantity for receiving</description>
+      <initValue>'1'</initValue>
+      <name>var_Stock_Quantity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Location for the Adjustments,Location for Po process</description>
+      <initValue>'GOOD'</initValue>
+      <name>var_Stock_Location</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Serial ID for the Adjustments</description>
+      <initValue>'S-23'</initValue>
+      <name>var_Stock_SerialID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Serial ID for the Adjustments</description>
+      <initValue>'S-22'</initValue>
+      <name>var_Stock_SerialID1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>PlaceID1 for the Adjustment</description>
+      <initValue>'TA-MOBPLACE3'</initValue>
+      <name>var_Stock_PlaceID1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Quantity for the Adjustments</description>
+      <initValue>'12'</initValue>
+      <name>var_Stock_Quantity1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LotID for the Adjustments</description>
+      <initValue>'3'</initValue>
+      <name>var_Stock_LotID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Bad in Receiving'</initValue>
+      <name>var_Stock_AdjustmentReason1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Quantity for the Adjustments</description>
+      <initValue>'10'</initValue>
+      <name>var_Stock_Quantity2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Issue'</initValue>
+      <name>var_Stock_AdjustmentReason2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Scrap'</initValue>
+      <name>var_Stock_AdjustmentReason3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Transfer'</initValue>
+      <name>var_Stock_AdjustmentReason4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Location for the Adjustments</description>
+      <initValue>'GOOD'</initValue>
+      <name>var_Stock_Location1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Transfer Unusable to Unusable'</initValue>
+      <name>var_Stock_AdjustmentReason5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'Transfer Unusable-to-Use'</initValue>
+      <name>var_Stock_AdjustmentReason6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Transfer Use-to-Unusable'</initValue>
+      <name>var_Stock_AdjustmentReason7</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'S-26'</initValue>
+      <name>var_Stock_SerialID2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'S-27'</initValue>
+      <name>var_Stock_SerialID3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerailID for the Adjustments</description>
+      <initValue>'M-261'</initValue>
+      <name>var_Stock_SerialID4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'A-622'</initValue>
+      <name>var_Stock_SerialID5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'0522'</initValue>
+      <name>var_Stock_SerialID6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'0523'</initValue>
+      <name>var_Stock_SerialID7</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AdjustmentReason for the Adjustments</description>
+      <initValue>'For Sale'</initValue>
+      <name>var_Stock_AdjustmentReason8</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0524'</initValue>
+      <name>var_Stock_SerialID8</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'000'</initValue>
+      <name>var_Stock_SerialID9</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>&quot;Adjustment Reason for the Adjustments&quot;</description>
+      <initValue>'Transfer'</initValue>
+      <name>var_Stock_AdjustmentReason9</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'0525'</initValue>
+      <name>var_Stock_SerialID10</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SerialID for the Adjustments</description>
+      <initValue>'11'</initValue>
+      <name>var_Stock_SerialID11</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usable Actual for Stock count</description>
+      <initValue>'1'</initValue>
+      <name>var_Stock_UsableActual</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unusable Actual for Stock count</description>
+      <initValue>'2'</initValue>
+      <name>var_Stock_UnusableActual</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usable for Stock Count</description>
+      <initValue>'3'</initValue>
+      <name>var_Stock_Usable</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Unusable for Stock Count</description>
+      <initValue>'4'</initValue>
+      <name>var_Stock_Unusable</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LotID for Adjustments</description>
+      <initValue>'2'</initValue>
+      <name>var_Stock_LotID2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>var_Stock_LotID1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Part Id for Stock list</description>
+      <initValue>'TA-Serial Tracked Part1'</initValue>
+      <name>var_Stock_PartID6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Radius for find part</description>
+      <initValue>'No limit'</initValue>
+      <name>var_Stock_Radius</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Results for find part</description>
+      <initValue>'5 Places'</initValue>
+      <name>var_Stock_Results</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Task type for Debrief overview</description>
+      <initValue>'ECO'</initValue>
+      <name>var_DebriefOverview_TaskType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Priority for Debrief overview</description>
+      <initValue>'Medium'</initValue>
+      <name>var_DebriefOverview_Priority</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Duration for the Debrief Overview,Unit cost for purchase order,new password for authentication</description>
+      <initValue>'40'</initValue>
+      <name>var_DebriefOverview_Duration</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Description for the Debrief Overview,Email for SSO Login</description>
+      <initValue>'TEST123'</initValue>
+      <name>var_DebriefOverview_Description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>supplier id for the po process</description>
+      <initValue>'095201'</initValue>
+      <name>var_POProcess_SupplierId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TA-MOBPLACE5'</initValue>
+      <name>var_POProcess_ShipTo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Task ID for Job List</description>
+      <initValue>'37466'</initValue>
+      <name>var_JobList_TaskID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Place id for job list</description>
+      <initValue>'TA-CUSTOMER PLACE1'</initValue>
+      <name>var_JobList_PlaceID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Holiday'</initValue>
+      <name>var_TimeReporting_Type</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'13741/1'</initValue>
+      <name>var_Quote_QuoteId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'505 Wells St'</initValue>
+      <name>var_Quote_AddressID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Part Line Code for Quote</description>
+      <initValue>'Exchange Part'</initValue>
+      <name>var_Quote_PartLineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Travel'</initValue>
+      <name>var_Quote_LineCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7722901270'</initValue>
+      <name>var_Quote_MobilePhone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Marie'</initValue>
+      <name>var_Quote_FirstName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Kennedy'</initValue>
+      <name>var_Quote_LastName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Document'</initValue>
+      <name>var_Quote_AttachmentType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>FSM Url for the app</description>
+      <initValue>'https://fsmqa40-rnd.ifsworld.com/6mobileqaoracle/'</initValue>
+      <name>var_Authentication_ServiceURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Design for the Mobile Designer</description>
+      <initValue>'TA-DESIGN1'</initValue>
+      <name>var_MobileDesigner_Design</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Revision for Mobile Designer</description>
+      <initValue>'Revision 1'</initValue>
+      <name>var_MobileDesigner_Revision</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Name for the mobile designer</description>
+      <initValue>'TA-TESTDESIGN'</initValue>
+      <name>var_MobileDesigner_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Source Theme for the Designer</description>
+      <initValue>'TA-THEME2'</initValue>
+      <name>var_MobileDesigner_SourceTheme</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hexadecimal value for secondary color</description>
+      <initValue>'FFFF00'</initValue>
+      <name>var_MobileDesigner_SecondaryColor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hexadecimal value for second gradient</description>
+      <initValue>'00FF60'</initValue>
+      <name>var_MobileDesigner_SecondGradient</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Name for add design </description>
+      <initValue>'Admin'</initValue>
+      <name>var_MobileDesigner_AddName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>count script for mobile designer</description>
+      <initValue>'TA_COUNT_SCRIPT_1__1'</initValue>
+      <name>var_MobileDesigner_CountScript</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Icon Name for Mobile Designer</description>
+      <initValue>'Settings'</initValue>
+      <name>var_MobileDesigner_IconName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Label for Mobile Designer</description>
+      <initValue>'TA_M_1'</initValue>
+      <name>var_MobileDesigner_Label</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tap event for mobile designer</description>
+      <initValue>'TA_TAP_EVENT_1__1'</initValue>
+      <name>var_MobileDesigner_TapEvent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Label for Mobile Designer Home screen</description>
+      <initValue>'TA_M_2'</initValue>
+      <name>var_MobileDesigner_HomeLabel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Base workflow for the mobile designer</description>
+      <initValue>'Debrief'</initValue>
+      <name>var_MobileDesigner_BaseWorkflow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Type for the workflow</description>
+      <initValue>'Break Fix'</initValue>
+      <name>var_MobileDesigner_Type</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>numOfPasses</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>numOfFails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test Suite'</initValue>
+      <name>testSuite</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Home Menu Screen</description>
+      <initValue>'Home Menu'</initValue>
+      <name>var_MobileDesigner_VerifyHomeMenu</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Design Name For Test case 271</description>
+      <initValue>'KAVITEST'</initValue>
+      <name>var_MobileDesigner_DesignName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Close Current Screen</description>
+      <initValue>'Close'</initValue>
+      <name>var_MobileDesigner_DesignerScreenClose</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Theme Name</description>
+      <initValue>'Flag Theme'</initValue>
+      <name>var_MobileDesigner_ThemeName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>WorkFlow Name</description>
+      <initValue>'Workflows'</initValue>
+      <name>var_MobileDesigner_WorkFlowName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New workflow button</description>
+      <initValue>'ADD WORKFLOW'</initValue>
+      <name>var_MobileDesigner_NewWorkFlow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Common yes button</description>
+      <initValue>'YES'</initValue>
+      <name>var_Common_YesButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Common save button</description>
+      <initValue>'SAVE'</initValue>
+      <name>var_Common_SaveButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tap on Menus</description>
+      <initValue>'Menus'</initValue>
+      <name>var_MobileDesigner_Menus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Hamburg Categories</description>
+      <initValue>'Categories'</initValue>
+      <name>var_MobileDesigner_Categories</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Global Label</description>
+      <initValue>'Global'</initValue>
+      <name>var_MobileDesigner_Global</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Global Menus</description>
+      <initValue>'Global Menu'</initValue>
+      <name>var_MobileDesigner_GlobalMenus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Add workflow</description>
+      <initValue>'Add Workflow'</initValue>
+      <name>var_MobileDesigner_VerifyAddWorkFlow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Debrief Menu</description>
+      <initValue>'Debrief Menu'</initValue>
+      <name>var_MobileDesigner_VerifyBaseWorkflow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Common next button</description>
+      <initValue>'NEXT'</initValue>
+      <name>var_Common_NextButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Debrief Menu Order</description>
+      <initValue>'Debrief Menu Order'</initValue>
+      <name>var_MobileDesigner_VerifyBaseWorkflowMenu</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Preview the design</description>
+      <initValue>'Preview'</initValue>
+      <name>var_MobileDesigner_DesignerScreenPreview</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Job description</description>
+      <initValue>'36938'</initValue>
+      <name>var_MobileDesigner_JobInputValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Navigate to Home screen</description>
+      <initValue>'Home'</initValue>
+      <name>var_Common_HomeButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Job Description 2</description>
+      <initValue>'34191'</initValue>
+      <name>var_MobileDesigner_JobInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tap to customer tabs</description>
+      <initValue>'CustomerTabs'</initValue>
+      <name>var_MobileDesigner_CustomerTabScreen</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Example customer detail</description>
+      <initValue>'Addison Medical Center'</initValue>
+      <name>var_MobileDesigner_CustomerDetail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tap on customer tabs_2</description>
+      <initValue>'DebriefCustomerReview'</initValue>
+      <name>var_MobileDesigner_CustomerTabScreen_1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Item Type</description>
+      <initValue>'Add'</initValue>
+      <name>var_MobileDesigner_AddScreenItemName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Item type 2</description>
+      <initValue>'Next'</initValue>
+      <name>var_MobileDesigner_AddScreenItemName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Event type</description>
+      <initValue>'Validation'</initValue>
+      <name>var_MobileDesigner_AddScreenEventType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Event</description>
+      <initValue>'TA_VALIDATION_EVENT_1__1'</initValue>
+      <name>var_MobileDesigner_AddScreenEvent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add screen item description</description>
+      <initValue>'Adding Next Button'</initValue>
+      <name>var_MobileDesigner_AddScreenDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tap on customer tabs_3</description>
+      <initValue>'DebriefCustomerSignature'</initValue>
+      <name>var_MobileDesigner_CustomerTabScreen_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Event 2</description>
+      <initValue>'TA_VALIDATION_EVENT_2__1'</initValue>
+      <name>var_MobileDesigner_AddScreenEvent_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Adding a workflow description</description>
+      <initValue>'Adding a new workflow'</initValue>
+      <name>var_MobileDesigner_AddWorkFLowDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Screen Name</description>
+      <initValue>'DebriefLabor'</initValue>
+      <name>var_MobileDesigner_AddScreeName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New Scree Name</description>
+      <initValue>'NewDebriefTestScreen'</initValue>
+      <name>var_MobileDesigner_AddScreenName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add Screen table name</description>
+      <initValue>'TASK'</initValue>
+      <name>var_MobileDesigner_AddScreenTableName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add Screen workflow name</description>
+      <initValue>'Debrief'</initValue>
+      <name>var_MobileDesigner_AddScreenWorkFlowName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add Screen workflow menu type</description>
+      <initValue>'Both'</initValue>
+      <name>var_MobileDesigner_AddScreenMenuType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New Screen name2</description>
+      <initValue>'NewDebriefTestScreen2'</initValue>
+      <name>var_MobileDesigner_AddScreeName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add Screen :Screen type</description>
+      <initValue>'Tab Parent'</initValue>
+      <name>var_MobileDesigner_AddScreenScreenType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New Screen name3</description>
+      <initValue>'NewDebriefTestScreen3'</initValue>
+      <name>var_MobileDesigner_AddScreeName4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New Screen name4</description>
+      <initValue>'NewDebriefTestScreen4'</initValue>
+      <name>var_MobileDesigner_AddScreeName5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Custom Screen Name</description>
+      <initValue>'Debrief ECO Workflow'</initValue>
+      <name>var_MobileDesigner_WFMenuName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>New Screen name5</description>
+      <initValue>'NewDebriefTestScreen5'</initValue>
+      <name>var_MobileDesigner_AddScreeName6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Custom column name</description>
+      <initValue>'TA_Custom_Column_Name'</initValue>
+      <name>var_MobileDesigner_AddFieldCustomColumnName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add field description</description>
+      <initValue>'TA custom add field description'</initValue>
+      <name>var_MobileDesigner_AddFieldDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add Field Description</description>
+      <initValue>'Test Description'</initValue>
+      <name>var_MobileDesigner_AddFieldDescription2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Screen Name 2</description>
+      <initValue>'DebriefExpense'</initValue>
+      <name>var_MobileDesigner_ScreenName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Screen Name 3</description>
+      <initValue>'JobList'</initValue>
+      <name>var_MobileDesigner_ScreenName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Control Type</description>
+      <initValue>'Checkbox'</initValue>
+      <name>var_MobileDesigner_ControlType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Field Type</description>
+      <initValue>'USER_DEF1'</initValue>
+      <name>var_MobileDesigner_FieldName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Event 3</description>
+      <initValue>'TA_VALUE_CHANGED_1__1'</initValue>
+      <name>var_MobileDesigner_AddScreenEvent3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Screen Name 4</description>
+      <initValue>'DebriefOverview'</initValue>
+      <name>var_MobileDesigner_ScreenName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Event 4</description>
+      <initValue>'TA_CONTROL_EVENT_2'</initValue>
+      <name>var_MobileDesigner_AddScreenEvent4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Lookup label</description>
+      <initValue>'TA_M_6'</initValue>
+      <name>var_MobileDesigner_AddScreenEvent5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Parent_Child_Column Name</description>
+      <initValue>'contact_sequence'</initValue>
+      <name>var_MobileDesigner_AddLookUpTableParentChildColumnName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Parent_Child_Column Name 2</description>
+      <initValue>'contact_sequence1'</initValue>
+      <name>var_MobileDesigner_AddLookUpTableParentChildColumnName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Add column</description>
+      <initValue>'ALT_EMAIL_ADDRESS'</initValue>
+      <name>var_MobileDesigner_AddLookUpPColumnName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Custom column name</description>
+      <initValue>'TA_Custom_Column_Name_2'</initValue>
+      <name>var_MobileDesigner_AddFieldCustomColumnName2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

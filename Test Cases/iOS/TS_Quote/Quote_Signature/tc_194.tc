@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case focuses on the happy path where the available information on the QuoteSignature screen is verified.</description>
+   <name>tc_194</name>
+   <tag>ios</tag>
+   <comment></comment>
+   <testCaseGuid>af8ebc12-4ecc-4ba9-8c1a-c38f7422e44e</testCaseGuid>
+</TestCaseEntity>
